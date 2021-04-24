@@ -1,3 +1,6 @@
+**Image processing serve** 
+Its a simple NodeJS server side focused application to resize and convert the images to monochrome.
+
 To run the project you must first install graphicsmagick.
 On Mac use the homebrew package manager.
 ```
